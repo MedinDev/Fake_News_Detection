@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -c '```mermaid' \"/Users/medindev/Dev/Fake News Detection/paper/fake_news_detection_ieee.md\")",
+      "Bash(grep -c '\\\\$\\\\$' \"/Users/medindev/Dev/Fake News Detection/paper/fake_news_detection_ieee.md\")"
+    ]
+  }
+}

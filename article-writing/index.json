@@ -1,0 +1,242 @@
+{
+    "research/README.md": {
+        "category": "Research",
+        "status": "Active",
+        "last_modified": "2026-03-15T04:44:15.815421"
+    },
+    "research/scripts/enhanced_visualization.py": {
+        "category": "Research",
+        "status": "Active",
+        "last_modified": "2026-03-15T04:48:38.724540"
+    },
+    "research/scripts/advanced_deep_analysis.py": {
+        "category": "Research",
+        "status": "Active",
+        "last_modified": "2026-03-15T04:49:40.328685"
+    },
+    "research/scripts/generate_index.py": {
+        "category": "Research",
+        "status": "Active",
+        "last_modified": "2026-03-15T04:44:31.611499"
+    },
+    "research/scripts/simple_final_test.py": {
+        "category": "Research",
+        "status": "Active",
+        "last_modified": "2026-03-15T04:52:14.776326"
+    },
+    "research/scripts/generate_ieee_figures.py": {
+        "category": "Research",
+        "status": "Active",
+        "last_modified": "2026-03-15T04:47:16.990837"
+    },
+    "research/scripts/academic_paper_visualizations.py": {
+        "category": "Research",
+        "status": "Active",
+        "last_modified": "2026-03-15T04:47:10.228571"
+    },
+    "research/reports/academic_analysis_report.json": {
+        "category": "Research",
+        "status": "Active",
+        "last_modified": "2025-09-19T15:52:39.271237"
+    },
+    "research/reports/advanced_deep_analysis_report.json": {
+        "category": "Research",
+        "status": "Active",
+        "last_modified": "2025-09-19T15:34:18.930074"
+    },
+    "research/reports/enhanced_analysis_report.json": {
+        "category": "Research",
+        "status": "Active",
+        "last_modified": "2025-09-19T15:31:26.820677"
+    },
+    "research/reports/simple_final_report.json": {
+        "category": "Research",
+        "status": "Active",
+        "last_modified": "2025-09-19T15:27:54.999804"
+    },
+    "editorial-guidelines/README.md": {
+        "category": "Guideline",
+        "status": "Active",
+        "last_modified": "2026-03-15T04:44:18.119813"
+    },
+    "drafts/supplementary_materials.md": {
+        "category": "Draft",
+        "status": "Draft",
+        "last_modified": "2026-03-15T04:36:43.285518"
+    },
+    "drafts/README.md": {
+        "category": "Draft",
+        "status": "Draft",
+        "last_modified": "2026-03-15T04:44:14.295989"
+    },
+    "drafts/fake_news_detection_ieee.md": {
+        "category": "Draft",
+        "status": "Draft",
+        "last_modified": "2026-03-15T04:30:26.131001"
+    },
+    "published-pieces/README.md": {
+        "category": "Published",
+        "status": "Published",
+        "last_modified": "2026-03-15T04:44:18.026042"
+    },
+    "templates/README.md": {
+        "category": "Template",
+        "status": "Template",
+        "last_modified": "2026-03-15T04:44:14.710173"
+    },
+    "media/README.md": {
+        "category": "Media",
+        "status": "Active",
+        "last_modified": "2026-03-15T04:44:18.021364"
+    },
+    "media/general/simple_final_test.png": {
+        "category": "Media",
+        "status": "Active",
+        "last_modified": "2025-09-19T15:27:47.692520"
+    },
+    "media/general/performance_dashboard.png": {
+        "category": "Media",
+        "status": "Active",
+        "last_modified": "2025-09-19T15:31:26.819898"
+    },
+    "media/general/learning_curves_analysis.png": {
+        "category": "Media",
+        "status": "Active",
+        "last_modified": "2025-09-19T15:31:24.718478"
+    },
+    "media/general/comprehensive_analysis.png": {
+        "category": "Media",
+        "status": "Active",
+        "last_modified": "2026-03-09T00:14:37.771302"
+    },
+    "media/general/statistical_comparison.png": {
+        "category": "Media",
+        "status": "Active",
+        "last_modified": "2025-09-19T15:34:15.602697"
+    },
+    "media/ieee-figures/02_Figure_3_Feature_Importance.png": {
+        "category": "Media",
+        "status": "Active",
+        "last_modified": "2026-03-09T02:26:27.335684"
+    },
+    "media/ieee-figures/12_Lexical_Word_Analysis.png": {
+        "category": "Media",
+        "status": "Active",
+        "last_modified": "2026-03-09T02:44:54.477602"
+    },
+    "media/ieee-figures/07_Learning_Curves_Simple.png": {
+        "category": "Media",
+        "status": "Active",
+        "last_modified": "2026-03-09T02:26:31.940439"
+    },
+    "media/ieee-figures/05_Figure_2_Extended_Confusion_Matrices.png": {
+        "category": "Media",
+        "status": "Active",
+        "last_modified": "2026-03-09T02:26:29.457186"
+    },
+    "media/ieee-figures/03_Accuracy_Comparison.png": {
+        "category": "Media",
+        "status": "Active",
+        "last_modified": "2026-03-09T02:26:27.507796"
+    },
+    "media/ieee-figures/09_Feature_Importance_Simple.png": {
+        "category": "Media",
+        "status": "Active",
+        "last_modified": "2026-03-09T02:26:33.512290"
+    },
+    "media/ieee-figures/01_Figure_1_Dataset_Dashboard.png": {
+        "category": "Media",
+        "status": "Active",
+        "last_modified": "2026-03-09T02:26:26.504835"
+    },
+    "media/ieee-figures/10_Figure_5_Statistical_Validation.png": {
+        "category": "Media",
+        "status": "Active",
+        "last_modified": "2026-03-09T02:40:18.055265"
+    },
+    "media/ieee-figures/11_Model_Specific_Feature_Importance.png": {
+        "category": "Media",
+        "status": "Active",
+        "last_modified": "2026-03-09T02:43:20.576190"
+    },
+    "media/ieee-figures/04_Core_Confusion_Matrices.png": {
+        "category": "Media",
+        "status": "Active",
+        "last_modified": "2026-03-09T02:26:28.174629"
+    },
+    "media/ieee-figures/08_Figure_4_Learning_Dynamics.png": {
+        "category": "Media",
+        "status": "Active",
+        "last_modified": "2026-03-09T02:26:33.223244"
+    },
+    "media/ieee-figures/12_Word_Cloud_Linguistic_Analysis.png": {
+        "category": "Media",
+        "status": "Active",
+        "last_modified": "2026-03-09T02:43:20.579727"
+    },
+    "media/ieee-figures/11_Model_Feature_Comparison.png": {
+        "category": "Media",
+        "status": "Active",
+        "last_modified": "2026-03-09T02:44:54.474820"
+    },
+    "media/ieee-figures/06_Metrics_Comparison.png": {
+        "category": "Media",
+        "status": "Active",
+        "last_modified": "2026-03-09T02:26:29.677239"
+    },
+    "media/academic-paper/figure2_model_performance.png": {
+        "category": "Media",
+        "status": "Active",
+        "last_modified": "2026-03-09T02:17:01.002670"
+    },
+    "media/academic-paper/figure5_confusion_matrices.png": {
+        "category": "Media",
+        "status": "Active",
+        "last_modified": "2026-03-09T02:17:08.468406"
+    },
+    "media/academic-paper/figure1_dataset_overview.png": {
+        "category": "Media",
+        "status": "Active",
+        "last_modified": "2026-03-09T02:16:59.989704"
+    },
+    "media/academic-paper/figure3_learning_analysis.png": {
+        "category": "Media",
+        "status": "Active",
+        "last_modified": "2026-03-09T02:17:05.015361"
+    },
+    "media/academic-paper/figure5a_core_confusion_matrices.png": {
+        "category": "Media",
+        "status": "Active",
+        "last_modified": "2026-03-09T02:17:09.208149"
+    },
+    "media/academic-paper/figure4_feature_analysis.png": {
+        "category": "Media",
+        "status": "Active",
+        "last_modified": "2026-03-09T02:17:07.077356"
+    },
+    "media/academic-paper/figure4_learning_dynamics.png": {
+        "category": "Media",
+        "status": "Active",
+        "last_modified": "2026-03-09T02:17:06.306540"
+    },
+    "media/supplementary-figures/S1_Ensemble_Analysis.png": {
+        "category": "Media",
+        "status": "Active",
+        "last_modified": "2026-03-15T04:28:18.722682"
+    },
+    "media/supplementary-figures/S3_Validation_Curves.png": {
+        "category": "Media",
+        "status": "Active",
+        "last_modified": "2026-03-15T04:28:18.733524"
+    },
+    "media/supplementary-figures/S2_Dimensionality_Analysis.png": {
+        "category": "Media",
+        "status": "Active",
+        "last_modified": "2026-03-15T04:28:18.726060"
+    },
+    "media/supplementary-figures/S4_Comprehensive_Comparison.png": {
+        "category": "Media",
+        "status": "Active",
+        "last_modified": "2026-03-15T04:28:18.775497"
+    }
+}
